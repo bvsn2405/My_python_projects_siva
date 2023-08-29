@@ -1,0 +1,6 @@
+django~=4.2.3
+python-decouple
+mysqlclient
+pytest~=7.4.0
+djangorestframework~=3.14.0
+coverage
